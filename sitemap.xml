@@ -2,19 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nickcao123456.github.io.github.io/post/blog/</loc>
+    <loc>https://nickcao123456.github.io/--watch/post/blog/</loc>
     <lastmod>2022-01-01T22:26:06+08:00</lastmod>
   </url><url>
-    <loc>https://nickcao123456.github.io.github.io/</loc>
+    <loc>https://nickcao123456.github.io/--watch/post/</loc>
     <lastmod>2022-01-01T22:26:06+08:00</lastmod>
   </url><url>
-    <loc>https://nickcao123456.github.io.github.io/post/</loc>
+    <loc>https://nickcao123456.github.io/--watch/</loc>
     <lastmod>2022-01-01T22:26:06+08:00</lastmod>
   </url><url>
-    <loc>https://nickcao123456.github.io.github.io/categories/</loc>
+    <loc>https://nickcao123456.github.io/--watch/post/newblog/</loc>
   </url><url>
-    <loc>https://nickcao123456.github.io.github.io/tags/</loc>
+    <loc>https://nickcao123456.github.io/--watch/categories/</loc>
   </url><url>
-    <loc>https://nickcao123456.github.io.github.io/post/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://nickcao123456.github.io/--watch/tags/</loc>
+  </url><url>
+    <loc>https://nickcao123456.github.io/--watch/post/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
   </url>
 </urlset>
